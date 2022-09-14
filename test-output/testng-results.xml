@@ -14,12 +14,12 @@
       <![CDATA[hello appium]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-09-13T10:02:04 IST" name="Suite" finished-at="2022-09-13T10:02:04 IST" duration-ms="142">
+  <suite started-at="2022-09-14T08:19:04 IST" name="Suite" finished-at="2022-09-14T08:19:05 IST" duration-ms="139">
     <groups>
     </groups>
-    <test started-at="2022-09-13T10:02:04 IST" name="Test" finished-at="2022-09-13T10:02:04 IST" duration-ms="142">
+    <test started-at="2022-09-14T08:19:04 IST" name="Test" finished-at="2022-09-14T08:19:05 IST" duration-ms="139">
       <class name="Scripts.test3">
-        <test-method signature="tc3()[pri:0, instance:Scripts.test3@1b6e1eff]" started-at="2022-09-13T10:02:04 IST" name="tc3" finished-at="2022-09-13T10:02:04 IST" duration-ms="6" status="PASS">
+        <test-method signature="tc3()[pri:0, instance:Scripts.test3@1b6e1eff]" started-at="2022-09-14T08:19:05 IST" name="tc3" finished-at="2022-09-14T08:19:05 IST" duration-ms="10" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello selenium]]>
@@ -28,7 +28,7 @@
         </test-method> <!-- tc3 -->
       </class> <!-- Scripts.test3 -->
       <class name="Scripts.test2">
-        <test-method signature="tc2()[pri:0, instance:Scripts.test2@306f16f3]" started-at="2022-09-13T10:02:04 IST" name="tc2" finished-at="2022-09-13T10:02:04 IST" duration-ms="6" status="PASS">
+        <test-method signature="tc2()[pri:0, instance:Scripts.test2@306f16f3]" started-at="2022-09-14T08:19:05 IST" name="tc2" finished-at="2022-09-14T08:19:05 IST" duration-ms="5" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello python]]>
@@ -37,7 +37,7 @@
         </test-method> <!-- tc2 -->
       </class> <!-- Scripts.test2 -->
       <class name="Scripts.test1">
-        <test-method signature="tc1()[pri:0, instance:Scripts.test1@1a4013]" started-at="2022-09-13T10:02:04 IST" name="tc1" finished-at="2022-09-13T10:02:04 IST" duration-ms="17" status="PASS">
+        <test-method signature="tc1()[pri:0, instance:Scripts.test1@1a4013]" started-at="2022-09-14T08:19:05 IST" name="tc1" finished-at="2022-09-14T08:19:05 IST" duration-ms="18" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello java]]>
@@ -46,7 +46,7 @@
         </test-method> <!-- tc1 -->
       </class> <!-- Scripts.test1 -->
       <class name="Scripts.test4">
-        <test-method signature="tc4()[pri:0, instance:Scripts.test4@702b8b12]" started-at="2022-09-13T10:02:04 IST" name="tc4" finished-at="2022-09-13T10:02:04 IST" duration-ms="5" status="PASS">
+        <test-method signature="tc4()[pri:0, instance:Scripts.test4@702b8b12]" started-at="2022-09-14T08:19:05 IST" name="tc4" finished-at="2022-09-14T08:19:05 IST" duration-ms="5" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[hello appium]]>

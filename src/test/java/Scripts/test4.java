@@ -7,7 +7,7 @@ public class test4 {
 	
 	@Test
 	public void tc4() {
-   Reporter.log("hello appium",true);		
+   Reporter.log("hello appium");		
 		
 		
 	}
